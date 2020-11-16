@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'cinemex.apps.CinemexConfig',
+    'django_countries',
 ]
 
 MIDDLEWARE = [
